@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 stack<int> s;
 void display(int Board[][3]) //To display Board
